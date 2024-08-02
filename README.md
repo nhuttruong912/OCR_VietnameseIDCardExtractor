@@ -28,7 +28,7 @@ docker run -p 8080:8080 <app_name>
 ```
 
 ## **Demo**
-https://user-images.githubusercontent.com/65907920/197776185-da82f1e3-bc4e-41c9-9be6-95254e4c2dfa.mov
+![demo](demo.png)
 
 ## **TODO**
 - [ ] Implement eKYC features.
