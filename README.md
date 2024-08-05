@@ -1,8 +1,9 @@
-# **Vietnamese ID Card Extractor - Developed by Nguyen Phan Nhut Truong N20DCCN082**
+# **Vietnamese ID Card Extractor**
 
 ## **Introduction**
 
-An web application helps us to extract information from Vietnamese chip-based ID card in a second. This application aims to reduce human typing workload and saves more time.
+Đề tài: Xây dựng mô hình trích xuất thông tin CCCD (OCR)
+SV: Nguyễn Phan Nhựt Trường N20DCCN082
 
 ## **Installation**
 All requirement libraries are listed in requirements.txt. You can install it by using:
