@@ -1,4 +1,4 @@
-# **Vietnamese ID Card Extractor**
+# **Vietnamese ID Card Extractor - Developed by Nguyen Phan Nhut Truong N20DCCN082**
 
 ## **Introduction**
 
