@@ -3,7 +3,7 @@
 ## **Introduction**
 
 Đề tài: Xây dựng mô hình trích xuất thông tin CCCD (OCR)
-SV: Nguyễn Phan Nhựt Trường N20DCCN082
+ | SV: Nguyễn Phan Nhựt Trường N20DCCN082
 
 ## **Installation**
 All requirement libraries are listed in requirements.txt. You can install it by using:
